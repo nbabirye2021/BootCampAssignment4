@@ -65,3 +65,9 @@ ul {
     color: white;
     background-color: #04AA6D;
   }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
